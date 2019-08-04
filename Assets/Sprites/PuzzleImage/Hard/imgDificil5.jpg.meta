@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 4641a5e66d7290445ae9533083d0b857
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imgDificil5_0
+    21300002: imgDificil5_1
+    21300004: imgDificil5_2
+    21300006: imgDificil5_3
+    21300008: imgDificil5_4
+    21300010: imgDificil5_5
+    21300012: imgDificil5_6
+    21300014: imgDificil5_7
+    21300016: imgDificil5_8
+    21300018: imgDificil5_9
+    21300020: imgDificil5_10
+    21300022: imgDificil5_11
+    21300024: imgDificil5_12
+    21300026: imgDificil5_13
+    21300028: imgDificil5_14
+    21300030: imgDificil5_15
+    21300032: imgDificil5_16
+    21300034: imgDificil5_17
+    21300036: imgDificil5_18
+    21300038: imgDificil5_19
+    21300040: imgDificil5_20
+    21300042: imgDificil5_21
+    21300044: imgDificil5_22
+    21300046: imgDificil5_23
+    21300048: imgDificil5_24
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imgDificil5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed708e6e97a6f9542a739bf706e57c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 614.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9215ff6e61b024f84183db696fe4c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 614.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535dccee835c41648bbd3a3220f0af1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 614.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9022dc6c935b54682ddba465fb5b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 614.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538721fd4d2c2b34fa7cc05e2bba389b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173682514162fe94092930043ea71a36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 461.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad4c83789f5d54aa60285c7c31dd39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 461.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e8d52b211d364da1530c535b31a80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 461.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0bc5dd66b36ef4e9696b792ebd6fb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 461.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdaa18af748d2e41bc1cb7f11b98d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c37fe651806244ac596e879ecd757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 308.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ecf31182cce9a46971f8f8cd3a07c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 308.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6eafa9eeb90847a314a949e56463f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 308.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6fad2dbbae6b4d9bc5317e1be3f57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 308.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294a08cdb03e8345b29a2aae5e02d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e90d47268f0cf141aff3c18ce9ec136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 155.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc807488bac827742b985175b53f7352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 155.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7fc5cb4fcb57a4dae0cd8e4206f3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 155.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11386c39a480f0a4690cec3060d411aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 155.4
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b021905a3644dc34eb84b5731cffbdc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f97e34788df5a544baed86986992806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2.399994
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d7f486a6fae349b99c8cf873cf2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2.399994
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84404127f8b37d34e95fdc5ee3e00f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2.399994
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1e495faf00334bbdf88fc0d12bbb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgDificil5_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2.399994
+        width: 153.6
+        height: 153.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975066c5b0a6d7468c8ff76a12bb053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 830a14c1acd804d429ffc54de6ce482f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: b1d2d0ce2bc321049a19800b100df74e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imgMedio10_0
+    21300002: imgMedio10_1
+    21300004: imgMedio10_2
+    21300006: imgMedio10_3
+    21300008: imgMedio10_4
+    21300010: imgMedio10_5
+    21300012: imgMedio10_6
+    21300014: imgMedio10_7
+    21300016: imgMedio10_8
+    21300018: imgMedio10_9
+    21300020: imgMedio10_10
+    21300022: imgMedio10_11
+    21300024: imgMedio10_12
+    21300026: imgMedio10_13
+    21300028: imgMedio10_14
+    21300030: imgMedio10_15
+    21300032: imgMedio11_0
+    21300034: imgMedio11_1
+    21300036: imgMedio11_2
+    21300038: imgMedio11_3
+    21300040: imgMedio11_4
+    21300042: imgMedio11_5
+    21300044: imgMedio11_6
+    21300046: imgMedio11_7
+    21300048: imgMedio11_8
+    21300050: imgMedio11_9
+    21300052: imgMedio11_10
+    21300054: imgMedio11_11
+    21300056: imgMedio11_12
+    21300058: imgMedio11_13
+    21300060: imgMedio11_14
+    21300062: imgMedio11_15
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imgMedio11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe782a66bc9350e4aa24772318d26e6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 575.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e590bcfab94e9f469de784fe0238679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 575.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426798837f27c4844827594a7d5dfd00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 575.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325a6240c50bee4aae28ead728ead63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0cc8ac1e58a542883c4ccc95c5f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58633b7ade479548aada4de3abb58e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0e0f3be4525c4bb57f81d81350e0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40c7e09d63df943951f9e27a5bfbb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0a5178c6cffe4e83d508bde07083f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e61ebe62d642d4eb0a72c8e34365d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ae329cfe535446ab3e412d8650a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c887aa3e39cc6742a45bb97a46a542f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7b36a977e0874cafefa1ce8d70055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c54a1f5e18e1fb42933fc8901678ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754a8302e8bd894aadc32ae6587b1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgMedio11_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2.25
+        width: 192
+        height: 191.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9e1eead5f7b64dada50590c357089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7e6ef99ba92071c4a8eaeedcf46e9868
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

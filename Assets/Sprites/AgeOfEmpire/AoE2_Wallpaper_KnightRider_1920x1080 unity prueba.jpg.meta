@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 03deed6eaed24cf42b990f520a3228ab
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_0
+    21300002: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_1
+    21300004: 1
+    21300006: 2
+    21300008: 3
+    21300010: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_5
+    21300012: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_6
+    21300014: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_7
+    21300016: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_8
+    21300018: 4
+    21300020: 5
+    21300022: 6
+    21300024: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_12
+    21300026: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_13
+    21300028: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_14
+    21300030: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_15
+    21300032: 7
+    21300034: 8
+    21300036: blank
+    21300038: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_19
+    21300040: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_20
+    21300042: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_21
+    21300044: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_22
+    21300046: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_23
+    21300048: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_24
+    21300050: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_25
+    21300052: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_26
+    21300054: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_27
+    21300056: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_28
+    21300058: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_29
+    21300060: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_30
+    21300062: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_31
+    21300064: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_32
+    21300066: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_33
+    21300068: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_34
+    21300070: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_35
+    21300072: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_36
+    21300074: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_37
+    21300076: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_38
+    21300078: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_39
+    21300080: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_40
+    21300082: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_41
+    21300084: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_42
+    21300086: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_43
+    21300088: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_44
+    21300090: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_45
+    21300092: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_46
+    21300094: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_47
+    21300096: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_48
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28ef3cbea4cf04392a3f1f8138072e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be2c774d74d2942bc79056be44ff95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f859cf2446b3346a19c6cce93e0c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b22e21a0968247bd5711a0c1406dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8bd748656cf4e408072f4db45051aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_5
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff1b6d1581cb6409b26867710c4d81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_6
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca380dc71f87eb4a96e5fb99938cd51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347fa681f57ac0468db97a6f10a3ec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102bf9f442ce6d4bb455e373810d95f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af0183fd8e39c8469255885d7566e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de8d5afa35ddb4b8c5eef735e61e79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea36e0de05677941a946743fe8fd830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_12
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93228c7826c80ee4d82b6fabac45ee2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_13
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83553c1cedc2804cbd3e390071b177b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf909775822df84eb78dd330530fd09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51de0fd29e25b54e840e5cca30da677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a578e052c24c4c830ad4579e9d42f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1155
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1abf2a07ed27c4cad3bc1f7f7710f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e9f417dd767424e82d5c8945d7ae5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_19
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0de8816968ff4ab2fe2b1cde351d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_20
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7055aa43d0563438b60c555d66bf48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36477de494d7ea343b52ba59fb1ed83d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262cfbb1c6f054243ae6de03c7dcbb51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f1df9965cb1d4bb746fe94bf0adc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_24
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac5f7ca65dac94c86597667c675115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_25
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116de5b915b04d4bae53756bd2580f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_26
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c08d0662c294bb478d66cf3a1facfc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_27
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06730c82f00f1544fb0a8868e2531189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f62eb5952f6594692512e0b3cdc4aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf70b0e1a85f924a9a56fa159003a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc0157441bff04799637e729c03249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_31
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0f400d34ac3d4e8652af4f1195edc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_32
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc578f63b7c78064ba0df093439baff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_33
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6fed5070277b749b3ce05f0a81f0ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_34
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cee10151de28347a866696928c753e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f03e04487a6e94ebfc12989488f0ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e56e39280d19048ac17d4661b9d67d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64791e38c1acb45bffdd114c88e4d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_38
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfbc9a3cfd3f3d49afd191481c75f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_39
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a88968517bac8c47abe5ec813e1c13f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_40
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23af68e48ced34e4082c3b80c824d377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_41
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734aa9eeb09a9a44592e238fcd27cb7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92433047bbb52914aa66c714944dbd00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88ffe653f77924194c04602f48b426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_44
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0794a500bb12a40a9ef581a9188931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8d2bf9f3c38164ea130858ede6392d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_46
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510c0a814208f94bab4037c5906db06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_47
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b385d37cfd6e3f64e94379ab17fe8b64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoE2_Wallpaper_KnightRider_1920x1080 unity prueba_48
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 128
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383bd5f829e42fc4ab0fceed61057b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e336a54729c6fde42b76784332af9ee0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
