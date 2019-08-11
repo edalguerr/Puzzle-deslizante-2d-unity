@@ -6,9 +6,9 @@ public class inicializarIntersticial : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		string[] testDeviceIDs = new string[]{"C8E78010532B7281E46C46AC5BD5C2ED"};
+		string[] testDeviceIDs = new string[]{"test device id"};
 		EasyGoogleMobileAds.GetInterstitialManager().SetTestDevices(true, testDeviceIDs);
-		EasyGoogleMobileAds.GetInterstitialManager().PrepareInterstitial("ca-app-pub-6253241462828803/6198376069");
+		EasyGoogleMobileAds.GetInterstitialManager().PrepareInterstitial("");
 	}
 	
 	// Update is called once per frame
